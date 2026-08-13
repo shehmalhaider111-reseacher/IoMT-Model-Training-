@@ -1,6 +1,6 @@
 # A Federated LSTM-Autoencoder Framework with Differential Privacy for Secure Healthcare IoT Anomaly Detection
 
-This repository contains the official source code and reproducibility package for our research paper: **"[Yahan Apne Paper Ka Mukammal Title Likhain]"**. 
+This repository contains the official source code and reproducibility package for our research paper: A Federated LSTM-Autoencoder Framework with Differential Privacy for Secure Healthcare IoT Anomaly Detection.
 
 Our proposed framework implements a Federated LSTM-Autoencoder (with and without Differential Privacy) to detect anomalies in healthcare IoT environments while preserving patient data privacy.
 
